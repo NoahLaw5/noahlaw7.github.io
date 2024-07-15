@@ -8,7 +8,7 @@ body {
     
     padding: 80px;
     text-align: center;
-    background-image: url(/Users/noahlawhorn/Desktop/Project/pexels-pixabay-531767.jpg);
+    background-image: url('pexels-pixabay-531767.jpg');
     background-size: contain;
 }
 
